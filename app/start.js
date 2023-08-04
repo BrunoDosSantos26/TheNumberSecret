@@ -1,0 +1,3 @@
+function startPorVoz() {
+    start.click();
+}
